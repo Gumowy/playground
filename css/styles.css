@@ -31,13 +31,14 @@ header{
 
 .container-left{
   width:40%;
-  background-color: blue;
+  background-color: #e2e2e2;
   display: flex;
 }
 
 .container-right{
   width: 60%;
   display: flex;
+  background-color: #c6c6c6
 }
 
 ul .menu {
