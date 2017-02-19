@@ -7,9 +7,11 @@
 
 body{
   background: #fff;
-  font: Helvetica;
+  font-family: Helvetica;
 
 }
+
+
 
 
 .container{
@@ -22,8 +24,9 @@ body{
 }
 
 ul .menu{
-  display: inline-block;
+  display: block;
   text-transform: uppercase;
+  list-style-type: disc;
 
 }
 
