@@ -61,7 +61,8 @@ li {
   flex-direction: column;
   padding-top: 250px;
   background-color: blue;
-  height: 600px;
+  min-height: 600px;
+  margin-top: 50px;
 
 }
 
