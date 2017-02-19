@@ -53,3 +53,8 @@ li {
   display: inline;
   margin-right: 25px;
 }
+
+#blog{
+  display: flex;
+  flex-direction: row;
+}
