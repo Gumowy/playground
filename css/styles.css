@@ -59,7 +59,7 @@ li {
 #home{
   display: flex;
   flex-direction: column;
-  margin-top: 250px;
+  padding-top: 250px;
   background-color: blue;
   min-height: 100vh;
 
