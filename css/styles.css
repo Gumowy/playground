@@ -36,5 +36,6 @@ ul .menu{
 }
 
 li .menu{
+  display: inline-block;
   margin-right: 25px;
 }
