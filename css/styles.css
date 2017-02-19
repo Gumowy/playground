@@ -31,11 +31,13 @@ header{
 ul .menu{
   display: block;
   text-transform: uppercase;
-  list-style-type: disc;
+  list-style-type: none;
+  margin: 0;
+    padding: 0;
 
 }
 
 li .menu{
-  display: inline-block;
+  display: inline;
   margin-right: 25px;
 }
