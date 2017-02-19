@@ -28,7 +28,7 @@ header{
   text-align: center;
 }
 
-ul .menu{
+ul {
   display: block;
   text-transform: uppercase;
   list-style-type: none;
@@ -37,7 +37,7 @@ ul .menu{
 
 }
 
-li .menu{
+li {
   display: inline;
   margin-right: 25px;
 }
