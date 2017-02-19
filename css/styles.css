@@ -21,7 +21,6 @@ header{
 }
 
 
-
 .container{
   display: block;
   padding-top: 50px;
@@ -55,6 +54,13 @@ ul .menu {
 li {
   display: inline;
   margin-right: 25px;
+}
+
+#home{
+  display: flex;
+  flex-direction: column;
+  padding-top: 200px;
+  
 }
 
 #blog{
