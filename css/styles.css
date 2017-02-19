@@ -32,10 +32,12 @@ header{
 .container-left{
   width:40%;
   background-color: blue;
+  display: flex;
 }
 
 .container-right{
   width: 60%;
+  display: flex;
 }
 
 ul .menu {
