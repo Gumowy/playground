@@ -17,11 +17,10 @@ header{
   width: 100%;
   z-index: 2;
   position: fixed;
-}
-
-header .container{
   max-height: 150px;
 }
+
+
 
 .container{
   display: block;
