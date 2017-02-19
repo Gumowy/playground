@@ -19,6 +19,9 @@ header{
   position: fixed;
 }
 
+header .container{
+  max-height: 150px;
+}
 
 .container{
   display: block;
