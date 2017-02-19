@@ -20,3 +20,13 @@ body{
   margin: 0 auto;
   text-align: center;
 }
+
+ul .menu{
+  display: inline-block;
+  text-transform: uppercase;
+
+}
+
+li .menu{
+  margin-right: 25px;
+}
