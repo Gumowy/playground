@@ -74,7 +74,11 @@ li {
 }
 
 .button-1{
-  background: #7cc576;
+  background-color: #7cc576;
+  font: #fff;
+  font-size: 16px;
+  line-height: 20pc;
+  margin-top: 50px;
   border-radius: 90px;
   text-transform: uppercase;
   width: 200px;
@@ -82,11 +86,7 @@ li {
   text-align: center;
 }
 
-.button-1 a {
-  color: #fff;
-  font: 16px;
-  line-height: 20px;
-}
+
 
 
 #home{
