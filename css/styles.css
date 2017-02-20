@@ -61,6 +61,8 @@ li {
   flex-direction: column;
   padding-top: 250px;
   background: url(../images/bg_title.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 600px;
   margin-top: 50px;
 
