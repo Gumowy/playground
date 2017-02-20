@@ -91,6 +91,7 @@ li {
 .button-1{
   background-color: #7cc576;
   color: #fff;
+  font-weight: 500;
   font-size: 16px;
   line-height: 20pc;
   margin-top: 50px;
@@ -105,7 +106,10 @@ li {
   transition: all 1s ease 0s
 }
 
-
+.button-1 :hover{
+  background-color: #000;
+  color: #000;
+}
 
 
 #home{
