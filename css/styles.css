@@ -20,6 +20,11 @@ header{
   max-height: 150px;
 }
 
+h1 {
+  font: 22/26px 600 Helvetica, Arial;
+  color: #fff;
+}
+
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
