@@ -60,18 +60,22 @@ header .container{
   width: 970px;
   margin: 0 auto;
   text-align: center;
+
 }
 
 .container-left{
   width:40%;
   background-color: #e2e2e2;
+  background: url(../images/gear.png);
+  background-position: right;
   display: flex;
 }
 
 .container-right{
   width: 60%;
   display: flex;
-  background-color: #c6c6c6
+  background-color: #c6c6c6;
+  background: url(../images/bg_learn_more.png);
 }
 
 ul .menu {
