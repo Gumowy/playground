@@ -18,6 +18,7 @@ header{
   z-index: 2;
   position: fixed;
   max-height: 150px;
+  top: 0;
 }
 
 h1 {
