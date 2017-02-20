@@ -73,6 +73,13 @@ li {
   margin-right: 25px;
 }
 
+.button-1{
+  background: #7cc576;
+  border-radius: 90px;
+  text-transform: uppercase;
+  width: 200px;
+}
+
 #home{
   display: flex;
   flex-direction: column;
