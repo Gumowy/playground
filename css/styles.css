@@ -121,6 +121,7 @@ li {
 
 #home .container{
   padding-top: 150px;
+  max-height: 50%;
 }
 
 #blog{
