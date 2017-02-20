@@ -21,13 +21,15 @@ header{
 }
 
 h1 {
-  font: 22/26px 600 Helvetica, Arial;
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: 600;
   color: #fff;
 }
 
 
 p .subtitle{
-  font: 16px;
+  font-size: 20px;
   color: #fff;
 }
 
