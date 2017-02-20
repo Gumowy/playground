@@ -106,8 +106,8 @@ li {
   transition: all 1s ease 0s
 }
 
-.button-1 :hover{
-  background-color: #000;
+.button-1:hover{
+  background-color: #fff;
   color: #000;
 }
 
