@@ -60,7 +60,7 @@ li {
   display: flex;
   flex-direction: column;
   padding-top: 250px;
-  background-color: blue;
+  background: url(/images/bg_title.jpg);
   min-height: 600px;
   margin-top: 50px;
 
