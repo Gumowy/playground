@@ -20,6 +20,10 @@ header{
   max-height: 150px;
 }
 
+header .container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 .container{
   display: block;
