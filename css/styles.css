@@ -67,6 +67,10 @@ li {
 
 }
 
+#home .container{
+  margin-top: 200px;
+}
+
 #blog{
   display: flex;
   flex-direction: row;
