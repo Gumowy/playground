@@ -89,17 +89,17 @@ li {
 
 .button-1{
   background-color: #7cc576;
-  font: #fff;
+  color: #fff;
   font-size: 16px;
   line-height: 20pc;
   margin-top: 50px;
   padding-top: 20px;
   padding-bottom: 20px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
   border-radius: 90px;
   text-transform: uppercase;
-
+  text-decoration: none;
   text-align: center;
   transition: all 1s ease 0s
 }
