@@ -25,6 +25,12 @@ h1 {
   color: #fff;
 }
 
+
+p .subtitle{
+  font: 16px;
+  color: #fff;
+}
+
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
