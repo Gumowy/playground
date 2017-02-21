@@ -51,7 +51,18 @@ p.subtitle{
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
+
 }
+
+.nav{
+  height: 115px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  transition: all .6s ease 0s
+  }
+
 
 .container{
   display: block;
