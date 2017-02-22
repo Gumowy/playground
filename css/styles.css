@@ -193,7 +193,7 @@ ul.blog_list li {
   font-size:20px;
 }
 
-ul.blog_list li:before{
+li.blog_list_li:before{
 content:'';
 width: 32px;
 height: 32px;
