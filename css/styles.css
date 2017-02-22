@@ -74,15 +74,7 @@ p.about_paragr{
   padding: 20px;
 }
 
-h3.about_heading_2::before{
-  content:'';
-width: 55px;
-height: 52px;
-background-image: url(../images/icon_phone.png);
-position: relative;
-display: block;
-margin: 0 auto;
-}
+
 
 
 h3.about_heading_1:before{
@@ -95,7 +87,15 @@ display: block;
 margin: 0 auto;
 }
 
-
+h3.about_heading_2::before{
+  content:'';
+width: 55px;
+height: 52px;
+background-image: url(../images/icon_phone.png);
+position: relative;
+display: block;
+margin: 0 auto;
+}
 
 h3.about_heading_3::before{
   content:'';
