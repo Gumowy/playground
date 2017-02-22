@@ -37,8 +37,15 @@ header{
   width: 100%;
   z-index: 2;
   position: fixed;
-  max-height: 150px;
   top: 0;
+}
+
+header.large{
+  max-height: 150px;
+}
+
+header.small{
+  max-height: 75px;
 }
 
 h1 {
