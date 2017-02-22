@@ -51,7 +51,7 @@ p.subtitle{
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
-  
+
 
 
 }
@@ -78,7 +78,8 @@ header .container{
 .container-left{
   width:40%;
   background-color: #e2e2e2;
-  background-image: url(../images/gear.png) no-repeat;
+  background-image: url(../images/gear.png);
+  background-repeat: no-repeat;
   background-position: right;
   display: flex;
 }
@@ -87,7 +88,8 @@ header .container{
   width: 60%;
   display: flex;
   background-color: #c6c6c6;
-  background-image: url(../images/bg_learn_more.png) no-repeat;
+  background-image: url(../images/bg_learn_more.png);
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
