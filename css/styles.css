@@ -45,7 +45,7 @@ header.large{
 }
 
 header.small{
-height: 50px;
+height: 55px;
 }
 
 h1 {
@@ -179,6 +179,17 @@ header.small .container  {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+
+header,
+.container,
+li {
+	transition: .7s all;
+	-moz-transition: .7s all;
+	-webkit-transition: .7s all;
+	-o-transition: .7s all;
+}
+
 
 .nav{
     display: flex;
