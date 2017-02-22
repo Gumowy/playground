@@ -146,6 +146,7 @@ background-repeat: no-repeat;
 position: relative;
 display: inline-block;
 margin: 0 auto;
+vertical-align: -59%;
 }
 
 h3.porfolio_heading_2:before{
@@ -158,6 +159,7 @@ background-repeat: no-repeat;
 position: relative;
 display: inline-block;
 margin: 0 auto;
+vertical-align: -59%;
 }
 
 h3.porfolio_heading_3:before{
@@ -170,6 +172,7 @@ background-repeat: no-repeat;
 position: relative;
 display: inline-block;
 margin: 0 auto;
+vertical-align: -59%;
 }
 
 
