@@ -81,7 +81,7 @@ width: 55px;
 height: 52px;
 background-image: url(../images/icon_heart.png);
 position: relative;
-display:block;
+display: block;
 margin: 0 auto;
 }
 
@@ -91,7 +91,7 @@ width: 55px;
 height: 52px;
 background-image: url(../images/icon_phone.png);
 position: relative;
-display:block;
+display: block;
 margin: 0 auto;
 }
 
@@ -101,7 +101,7 @@ width: 55px;
 height: 52px;
 background-image: url(../images/icon_marketing.png);
 position: relative;
-display:block;
+display: block;
 margin: 0 auto;
 }
 
