@@ -151,6 +151,7 @@ header .container{
 .container-right{
   width: 60%;
   display: flex;
+  flex-direction: column;
   background-color: #c6c6c6;
   background-image: url(../images/bg_learn_more.jpg);
   background-repeat: no-repeat;
@@ -187,7 +188,7 @@ ul.blog_list li {
 }
 
 p.right_paragr_sub{
-  color: #ccc;
+  color: #fff;
   max-width: 70%;
 }
 
