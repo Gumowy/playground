@@ -249,6 +249,9 @@ li {
   height:10px;
   background: #777;
   position: relative;
+  display: block;
+top: 50;
+left: 175;
 }
 
 .about_2:after{
@@ -257,6 +260,9 @@ li {
   height:10px;
   background: #777;
     position: relative;
+    display: block;
+top: 50;
+right: 175;
 }
 
 
