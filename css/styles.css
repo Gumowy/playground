@@ -74,18 +74,37 @@ p.about_paragr{
   padding: 20px;
 }
 
-h3.about_heading{
-  color: red;
+
+h3.about_heading_1:before{
+  content:'';
+width: 55px;
+height: 52px;
+background-image: url(../images/icon_heart.png);
+position: relative;
+display:block;
+margin: 0 auto;
 }
 
-h3.about_heading:before{
+h3.about_heading_2:before{
   content:'';
-width: 50px;
-height: 50px;
-background-color: green;
-position: absolute;
+width: 55px;
+height: 52px;
+background-image: url(../images/icon_phone.png);
+position: relative;
 display:block;
+margin: 0 auto;
 }
+
+h3.about_heading_3:before{
+  content:'';
+width: 55px;
+height: 52px;
+background-image: url(../images/icon_marketing.png);
+position: relative;
+display:block;
+margin: 0 auto;
+}
+
 
 header .container{
   padding-top: 20px;
