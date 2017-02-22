@@ -185,12 +185,14 @@ ul.blog_list{
 
 ul.blog_list li {
   display: block;
+  color: #ccc;
 }
 
 p.right_paragr_sub{
-  color: #fff;
+  color: #ccc;
   max-width: 70%;
 }
+
 
 .button-1{
   background-color: #7cc576;
