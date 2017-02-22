@@ -246,7 +246,7 @@ li {
 .about_2:before{
   content:'';
   width:150px;
-  height:10px;
+  height:3px;
   background: #777;
   position: relative;
   display: block;
@@ -257,12 +257,12 @@ left: 175;
 .about_2:after{
   content:'';
   width:150px;
-  height:10px;
+  height:3px;
   background: #777;
     position: relative;
     display: block;
-top: 50;
-right: 175;
+    top: -210;
+    right: 85;
 }
 
 
