@@ -13,7 +13,7 @@
 .about_1, .about_2, .about_3 {
 
   width: 25%;
-  
+
 }
 
 
@@ -71,6 +71,7 @@ p.subtitle{
 p.about_paragr{
   font-size: 14px;
   color: #777;
+  padding: 20px;
 }
 
 header .container{
