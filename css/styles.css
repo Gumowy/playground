@@ -190,7 +190,20 @@ ul.blog_list{
 ul.blog_list li {
   display: block;
   color: #ccc;
+  font-size:20px;
 }
+
+ul.blog_list li:before{
+content:'';
+width: 32px;
+height: 32px;
+background-image: url(..images/checkmark.png);
+margin-right: 10px;
+}
+
+
+
+
 
 p.right_paragr_sub{
   color: #ccc;
