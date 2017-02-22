@@ -85,6 +85,7 @@ background-image: url(../images/icon_heart.png);
 position: relative;
 display: block;
 margin: 0 auto;
+margin-bottom: 15px;
 }
 
 h3.about_heading_2::before{
@@ -95,6 +96,7 @@ background-image: url(../images/icon_phone.png);
 position: relative;
 display: block;
 margin: 0 auto;
+margin-bottom: 15px;
 }
 
 h3.about_heading_3::before{
@@ -105,6 +107,7 @@ background-image: url(../images/icon_marketing.png);
 position: relative;
 display: block;
 margin: 0 auto;
+margin-bottom: 15px;
 }
 
 
