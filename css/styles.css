@@ -87,7 +87,7 @@ display: block;
 margin: 0 auto;
 }
 
-h3.about_heading_2:before{
+h3.about_heading_2::before{
   content:'';
 width: 55px;
 height: 52px;
@@ -97,7 +97,7 @@ display: block;
 margin: 0 auto;
 }
 
-h3.about_heading_3:before{
+h3.about_heading_3::before{
   content:'';
 width: 55px;
 height: 52px;
