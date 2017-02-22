@@ -170,14 +170,15 @@ display: inline-block;
 margin: 0 auto;
 }
 
-header .container{
+header .container .large{
   padding-top: 20px;
   padding-bottom: 20px;
-
-
-
 }
 
+header .container .small {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 
 .nav{
     display: flex;
