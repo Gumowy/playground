@@ -10,7 +10,7 @@
   justify-content: center;
 }
 
-.about_1 .about_2 .about_3{
+.about_1, .about_2, .about_3{
   height: 200px;
   width: 200px;
   border: 1px solid #000;
