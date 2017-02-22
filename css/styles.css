@@ -156,6 +156,8 @@ header .container{
   background-image: url(../images/bg_learn_more.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-left: 140px;
+  padding-right: 140px;
 }
 
 .container-right h2 {
