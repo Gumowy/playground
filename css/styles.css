@@ -139,6 +139,7 @@ h3.porfolio_heading_1:before{
 width: 55px;
 height: 52px;
 background-image: url(../images/2_icon_e_commerance.png);
+background-size: contain;
 position: relative;
 display: inline-block;
 margin: 0 auto;
@@ -149,6 +150,7 @@ h3.porfolio_heading_2:before{
 width: 55px;
 height: 52px;
 background-image: url(../images/2_icon_secure.png);
+background-size: contain;
 position: relative;
 display: inline-block;
 margin: 0 auto;
@@ -159,6 +161,7 @@ h3.porfolio_heading_3:before{
 width: 55px;
 height: 52px;
 background-image: url(../images/2_icon_seo.png);
+background-size: contain;
 position: relative;
 display: inline-block;
 margin: 0 auto;
