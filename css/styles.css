@@ -11,7 +11,7 @@
 }
 
 .portfolio_holder{
-  width: 30%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -260,6 +260,8 @@ p.right_paragr_sub{
   max-height: 50%;
 }
 
+
+
 #blog{
   display: flex;
   flex-direction: row;
@@ -272,5 +274,8 @@ p.right_paragr_sub{
   background-image: url(../images/phone.png);
   background-position: right;
   background-repeat: no-repeat;
+}
 
+#portfolio .container{
+  text-align: left;
 }
