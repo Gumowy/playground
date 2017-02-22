@@ -175,12 +175,17 @@ li {
   margin-right: 25px;
 }
 
-ul .blog_list{
+ul.blog_list{
   display: block;
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+
+ul.blog_list li {
+  display: block;
+}
+
 
 .button-1{
   background-color: #7cc576;
