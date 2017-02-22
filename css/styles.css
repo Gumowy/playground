@@ -158,6 +158,8 @@ header .container{
   background-size: cover;
   padding-left: 140px;
   padding-right: 140px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .container-right h2 {
