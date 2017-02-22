@@ -68,6 +68,11 @@ p.subtitle{
   color: #fff;
 }
 
+p.subtitle_dark{
+  font-size: 20px;
+  color: #777;
+}
+
 p.about_paragr{
   font-size: 14px;
   color: #777;
@@ -159,7 +164,7 @@ header .container{
   padding-left: 140px;
   padding-right: 140px;
   padding-top: 80px;
-  padding-bottom: 80px;
+  padding-bottom: 20px;
 }
 
 .container-right h2 {
@@ -248,6 +253,12 @@ p.right_paragr_sub{
 }
 
 #blog{
+  display: flex;
+  flex-direction: row;
+
+}
+
+#portfolio{
   display: flex;
   flex-direction: row;
   background-image: url(../images/phone.png);
