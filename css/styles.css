@@ -191,11 +191,13 @@ ul.blog_list li {
   display: block;
   color: #ccc;
   font-size:20px;
+  margin-bottom: 20px;
 }
 
 li.blog_list_li:before{
 content: url(../images/checkmark.png);
 margin-right: 10px;
+vertical-align:-35%;
 }
 
 
