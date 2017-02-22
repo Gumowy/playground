@@ -51,10 +51,8 @@ p.subtitle{
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  
+
 
 }
 
@@ -99,7 +97,7 @@ ul .menu {
   list-style-type: none;
   margin: 0;
     padding: 0;
-    float: right;
+
 
 }
 
