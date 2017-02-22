@@ -190,18 +190,15 @@ ul.blog_list{
 ul.blog_list li {
   display: block;
   color: #ccc;
-  font-size:20px;
+  font-size:18px;
   margin-bottom: 20px;
 }
 
 li.blog_list_li:before{
 content: url(../images/checkmark.png);
 margin-right: 10px;
-vertical-align:-35%;
+vertical-align:-41%;
 }
-
-
-
 
 
 p.right_paragr_sub{
@@ -253,4 +250,6 @@ p.right_paragr_sub{
 #blog{
   display: flex;
   flex-direction: row;
+  background-image: url(../images/phone.png);
+  background-position: right;
 }
