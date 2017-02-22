@@ -46,6 +46,7 @@ h2{
   line-height: 50px;
   font-weight: 600;
   color: #000;
+  text-transform: uppercase;
 }
 
 h3{
@@ -263,4 +264,6 @@ p.right_paragr_sub{
   flex-direction: row;
   background-image: url(../images/phone.png);
   background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
