@@ -170,12 +170,12 @@ display: inline-block;
 margin: 0 auto;
 }
 
-header .large .container {
+header.large .container {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-header .small .container  {
+header.small .container  {
   padding-top: 5px;
   padding-bottom: 5px;
 }
