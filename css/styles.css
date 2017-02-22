@@ -186,6 +186,10 @@ ul.blog_list li {
   display: block;
 }
 
+p.right_paragr_sub{
+  color: #ccc;
+  max-width: 70%;
+}
 
 .button-1{
   background-color: #7cc576;
