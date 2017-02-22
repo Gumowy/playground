@@ -127,6 +127,18 @@ margin-bottom: 15px;
 }
 
 
+h3.porfolio_heading_1:before{
+  content:'';
+width: 55px;
+height: 52px;
+background-image: url(../images/icon_marketing.png);
+position: relative;
+display: inline-block;
+margin: 0 auto;
+margin-bottom: 15px;
+}
+
+
 header .container{
   padding-top: 20px;
   padding-bottom: 20px;
