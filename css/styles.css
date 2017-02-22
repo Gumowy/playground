@@ -131,7 +131,7 @@ h3.porfolio_heading_1:before{
   content:'';
 width: 55px;
 height: 52px;
-background-image: url(../images/icon_e_commerance.png);
+background-image: url(../images/2_icon_e_commerance.png);
 position: relative;
 display: inline-block;
 margin: 0 auto;
@@ -141,7 +141,7 @@ h3.porfolio_heading_2:before{
   content:'';
 width: 55px;
 height: 52px;
-background-image: url(../images/icon_secure.png);
+background-image: url(../images/2_icon_secure.png);
 position: relative;
 display: inline-block;
 margin: 0 auto;
@@ -151,7 +151,7 @@ h3.porfolio_heading_3:before{
   content:'';
 width: 55px;
 height: 52px;
-background-image: url(../images/icon_seo.png);
+background-image: url(../images/2_icon_seo.png);
 position: relative;
 display: inline-block;
 margin: 0 auto;
