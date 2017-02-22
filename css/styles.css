@@ -157,6 +157,10 @@ header .container{
   background-size: cover;
 }
 
+.container-right h2 {
+  color: #fff;
+}
+
 ul .menu {
   display: block;
   text-transform: uppercase;
