@@ -11,8 +11,10 @@
 }
 
 .portfolio_holder{
+  width: 30%;
   display: flex;
   flex-direction: column;
+  justify-content: flex-start;
 }
 
 .about_1, .about_2, .about_3 {
