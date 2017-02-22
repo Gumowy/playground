@@ -194,8 +194,7 @@ ul.blog_list li {
 }
 
 li.blog_list_li:before{
-content: url(..images/checkmark.png);;
-
+content: url(../images/checkmark.png);
 margin-right: 10px;
 }
 
