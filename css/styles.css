@@ -294,6 +294,10 @@ p.testimonials{
   max-width:60%;
 }
 
+.client_box{
+  padding:40px;
+}
+
 ul .menu {
   display: block;
   text-transform: uppercase;
