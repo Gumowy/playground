@@ -308,7 +308,7 @@ ul .menu {
 
 ul#hamburger_menu{
 line-height: 50px;
-min-height: 100%;
+padding-bottom: 40px;
 width: 0px;
 margin-right: -10px;
 padding-top: 10%;
@@ -319,6 +319,11 @@ position:fixed;
 left:0;
 width: 100%;
 background: #fff;
+}
+
+nav a{
+  text-decoration: none;
+  color: #000;
 }
 
 li.hamburger_list{
