@@ -327,7 +327,7 @@ li {
 ul.blog_list{
   display: block;
   list-style-type: none;
-  margin: 0;
+  margin-top: 60px;
   padding: 0;
 }
 
