@@ -265,7 +265,7 @@ left: 175;
     right: 83;
 }
 
-.clinents_row{
+.clients_holder{
   display: flex;
   flex-direction: column;
 }
