@@ -452,7 +452,7 @@ button.hamburger_icon{
 }
 
 @media (max-width: 737px){
-  #menu{
+  ul.menu{
     display: none;
   }
 }
