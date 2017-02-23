@@ -429,6 +429,10 @@ p.right_paragr_sub{
   text-align: left;
 }
 
+#culture{
+  background: #f2f2f2;
+}
+
 #clients{
   display: flex;
   flex-direction: column;
