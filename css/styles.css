@@ -411,9 +411,9 @@ p.right_paragr_sub{
 }
 
 span.hamburger_line{
-  margin-top: 5px;
-  width: 100%;
-  height: 5px;
+  width: 35px;
+   height: 5px;
+   margin: 6px 0;
   background-color: #777;
   display: block;
   position: absolute;
