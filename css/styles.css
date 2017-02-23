@@ -450,3 +450,10 @@ p.right_paragr_sub{
 #contact .container {
   padding-bottom: 0px;
 }
+
+
+@media(max-width: 970px){
+  .container{
+    width: 95%;
+  }
+}
