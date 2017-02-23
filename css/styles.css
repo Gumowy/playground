@@ -385,3 +385,8 @@ p.right_paragr_sub{
 #portfolio .container{
   text-align: left;
 }
+
+#clients{
+  display: flex;
+  flex-direction: column;
+}
