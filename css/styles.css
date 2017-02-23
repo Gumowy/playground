@@ -441,7 +441,7 @@ p.right_paragr_sub{
 
 
 @media (min-width: 737px){
-  ul#hamburger_menu{
+  #hamburger_menu ul{
     display: none;
   }
 }
@@ -452,7 +452,7 @@ button.hamburger_icon{
 }
 
 @media (max-width: 737px){
-  ul.menu{
+  #menu ul{
     display: none;
   }
 }
