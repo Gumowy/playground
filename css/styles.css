@@ -245,24 +245,12 @@ li {
 
 .about_2:before{
   content:'';
-  width:150px;
-  height:3px;
-  background: #777;
-  position: relative;
-  display: block;
-top: 50;
-left: 175;
+
 }
 
 .about_2:after{
   content:'';
-  width:150px;
-  height:3px;
-  background: #777;
-    position: relative;
-    display: block;
-    top: -203;
-    right: 83;
+
 }
 
 .clients_holder{
@@ -478,5 +466,8 @@ margin: 25px;
   }
   .container-right{
     width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
   }
 }
