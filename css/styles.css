@@ -446,6 +446,12 @@ p.right_paragr_sub{
   }
 }
 
+@media (max-width: 737px){
+  #menu{
+    display: none;
+  }
+}
+
 
 @media(max-width: 970px){
   .container{
