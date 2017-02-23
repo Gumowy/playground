@@ -24,8 +24,9 @@ $("ul#hamburger_menu").hide();
 
 $(document).ready(function(){
 
-    $("hamburger_link").click(function(){
-        $("ul#hamburger_menu").toggle();
+  $("li#hamburger_list").click(function () {
+ $(this).parent("ul#hamburger_menu" ).fadeOut(500);
+});
 
     });
 });
