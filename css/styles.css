@@ -457,3 +457,26 @@ p.right_paragr_sub{
     width: 95%;
   }
 }
+
+@media (max-width: 737px){
+  .about_holder{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 737px){
+.about_1, .about_2, .about_3 {
+margin: 25px;
+  width: 100%;
+}
+}
+
+@media (max-width: 737px){
+  .container-left{
+    display: none;
+  }
+  .container-right{
+    width: 100%;
+  }
+}
