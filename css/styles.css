@@ -272,7 +272,7 @@ left: 175;
 
 .clients_row{
   display:flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .clinents_row.client_2{
