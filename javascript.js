@@ -19,8 +19,13 @@ $("ul#hamburger_menu").hide();
     $("button").click(function(){
         $("ul#hamburger_menu").toggle();
 
-        $("a.hamburger_link").click(function(){
-            $("ul#hamburger_menu").toggle();
+    });
+});
+
+$(document).ready(function(){
+
+    $("hamburger_link").click(function(){
+        $("ul#hamburger_menu").toggle();
 
     });
 });
