@@ -447,6 +447,11 @@ p.right_paragr_sub{
 }
 
 @media (max-width: 737px){
+button.hamburger_icon{
+  display: none;
+}
+
+@media (max-width: 737px){
   #menu{
     display: none;
   }
