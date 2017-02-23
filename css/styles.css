@@ -393,6 +393,11 @@ p.right_paragr_sub{
   transition: all 1s ease 0s
 }
 
+.button-2:hover{
+  background-color: #fff;
+  color: #000;
+}
+
 #home{
   display: flex;
   flex-direction: column;
@@ -436,4 +441,8 @@ p.right_paragr_sub{
 #clients{
   display: flex;
   flex-direction: column;
+}
+
+#contact{
+  background: #f2f2f2;
 }
