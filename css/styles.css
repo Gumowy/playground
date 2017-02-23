@@ -306,7 +306,7 @@ ul .menu {
     padding: 0;
 }
 
-ul.hamburger_menu{
+ul#hamburger_menu{
 line-height: 50px;
 min-height: 100%;
 width: 0px;
