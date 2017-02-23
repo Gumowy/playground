@@ -410,13 +410,22 @@ p.right_paragr_sub{
   color: #000;
 }
 
+.hamburger_icon{
+  width: 30px;
+height: 30px;
+position: absolute;
+top: 12px;
+right: 15px;
+background: rgba (255,255,255, 0.1);
+}
+
 span.hamburger_line{
   width: 35px;
    height: 5px;
    margin: 6px 0;
   background-color: #777;
   display: block;
-  position: absolute;
+
 }
 
 #home{
