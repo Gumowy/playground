@@ -304,6 +304,11 @@ p.testimonials{
   padding-bottom: 40px;
   padding-top: 40px;
   background: #f2f2f2;
+
+
+border-top: 10px solid transparent;
+border-bottom: 10px solid transparent;
+border-right:10px solid #f2f2f2; 
 }
 
 .client_box{
