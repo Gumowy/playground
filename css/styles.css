@@ -467,7 +467,13 @@ margin: 25px;
   .container-right{
     width: 100%;
     text-align: center;
-    align-items: center;
-    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  #portoflio .container{
+    text-align: center;
+  }
+  .portfolio_holder{
+    width: 100%;
   }
 }
