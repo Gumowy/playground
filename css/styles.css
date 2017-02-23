@@ -288,9 +288,10 @@ left: 175;
 }
 
 p.testimonials{
-  font: 18px;
+  font: 20px;
   color: #777;
-  weight: 500;
+  weight: 600;
+  max-width:60%;
 }
 
 ul .menu {
