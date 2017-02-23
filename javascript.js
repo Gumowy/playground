@@ -14,7 +14,8 @@ $(document).on("scroll", function(){
 
 
 $(document).ready(function(){
-#("ul#hamburger_menu").hide();
+$("ul#hamburger_menu").hide();
+
     $("button").click(function(){
         $("ul#hamburger_menu").toggle();
     });
