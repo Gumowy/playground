@@ -270,7 +270,7 @@ left: 175;
   flex-direction: column;
 }
 
-.clients.row{
+.clients_row{
   display:flex;
   flex-direction: column;
 }
