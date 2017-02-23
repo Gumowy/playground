@@ -304,7 +304,10 @@ ul .menu {
   list-style-type: none;
   margin: 0;
     padding: 0;
+}
 
+ul.hamburger_menu li{
+  display: block;
 }
 
 li {
