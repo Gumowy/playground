@@ -306,6 +306,21 @@ ul .menu {
     padding: 0;
 }
 
+ul.hamburger_menu{
+line-height: 50px;
+min-height: 100%;
+width: 0px;
+margin-right: -10px;
+padding-top: 10%;
+list-style: none;
+padding-left: 10px;
+margin-top: 42px;
+position:fixed;
+left:0;
+width: 100%;
+background: #fff;
+}
+
 li.hamburger_list{
   display: block;
 }
@@ -447,16 +462,7 @@ p.right_paragr_sub{
 @media (min-width: 737px){
   ul#hamburger_menu{
     display: none;
-    line-height: 50px;
-min-height: 100%;
-width: 0px;
-margin-right: -10px;
-padding-top: 10%;
-list-style: none;
-padding-left: 10px;
-margin-top: 42px;
-position:fixed;
-background: #fff;
+
   }
 }
 
