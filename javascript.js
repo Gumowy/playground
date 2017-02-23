@@ -19,7 +19,7 @@ $("ul#hamburger_menu").hide();
     $("button").click(function(){
         $("ul#hamburger_menu").toggle();
 
-        $("ul#hamburger_menu").click(function(){
+        $("a.hamburger_link").click(function(){
             $("ul#hamburger_menu").toggle();
 
     });
