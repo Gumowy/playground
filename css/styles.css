@@ -375,7 +375,23 @@ p.right_paragr_sub{
 }
 
 
-
+.button-2{
+  background-color: #7cc576;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20pc;
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 45px;
+  padding-left: 45px;
+  border-radius: 90px;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  transition: all 1s ease 0s
+}
 
 #home{
   display: flex;
