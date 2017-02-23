@@ -446,3 +446,7 @@ p.right_paragr_sub{
 #contact{
   background: #f2f2f2;
 }
+
+#contact .container {
+  padding-bottom: 0px;
+}
