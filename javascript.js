@@ -22,13 +22,7 @@ $("ul#hamburger_menu").hide();
     });
 });
 
-$(document).ready(function(){
 
-    $("li.hamburger_list").click(function(){
-        $("ul#hamburger_menu").toggle();
-
-    });
-});
 
 
 
@@ -45,4 +39,13 @@ $(document).ready(function() {
       }
     }
   });
+});
+
+
+$(document).ready(function(){
+
+    $("li.hamburger_list").click(function(){
+        $("ul#hamburger_menu").toggle();
+
+    });
 });
