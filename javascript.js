@@ -15,6 +15,6 @@ $(document).on("scroll", function(){
 
 $(document).ready(function(){
     $("button").click(function(){
-        $(".hide").toggle();
+        $("ul#hamburger_menu").toggle();
     });
 });
