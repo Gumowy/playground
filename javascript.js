@@ -8,5 +8,13 @@ $(document).on("scroll", function(){
 
       $("header").removeClass("small").addClass("large");
     }
-  
+
+});
+
+
+
+$(document).ready(function(){
+    $("button").click(function(){
+        $(".hide").toggle();
+    });
 });
