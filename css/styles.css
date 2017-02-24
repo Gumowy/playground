@@ -424,18 +424,14 @@ p.right_paragr_sub{
 .hamburger_icon{
   width: 30px;
 height: 30px;
-position: absolute;
-top: 25px;
-right: 25px;
+position: relative;
+right: 5px;
 background: none;
 border: none;
 cursor: pointer;
 
 }
 
-header .small .hamburger_icon{
-  margin-top: -17px;
-}
 
 span.hamburger_line{
   width: 18px;
