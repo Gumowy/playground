@@ -433,7 +433,7 @@ cursor: pointer;
 
 }
 
-header.small .hamburger_icon{
+header.small.hamburger_icon{
   margin-top: -17px;
 }
 
