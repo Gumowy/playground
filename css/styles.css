@@ -294,6 +294,11 @@ border-bottom: 10px solid transparent;
 border-right:10px solid #f2f2f2;
 }
 
+span.name{
+  color: #7cc576;
+  display: block;
+}
+
 .client_box{
   padding: 40px;
 }
