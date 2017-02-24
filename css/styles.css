@@ -421,6 +421,10 @@ border: none;
 cursor: pointer;
 }
 
+header.small.hamburger_icon{
+  margin-top: -17px;
+}
+
 span.hamburger_line{
   width: 18px;
    height: 3px;
