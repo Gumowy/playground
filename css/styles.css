@@ -269,7 +269,7 @@ margin-bottom: 30px
 }
 
 @media(max-width: 737px;){
-.clients_row , .clients_row.client_2{
+.clients_row{
   display: flex;
 flex-direction: column;
 }
