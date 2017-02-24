@@ -529,7 +529,6 @@ button.hamburger_icon{
 
 @media (max-width: 737px){
 .about_1, .about_2, .about_3 {
-margin: 25px;
   width: 100%;
 }
 }
