@@ -330,6 +330,12 @@ background: #fff;
 
 nav a{
   text-decoration: none;
+  color: #777;
+font-weight: 600;
+font-size: 15px;
+}
+
+nav a:hover{
   color: #000;
 }
 
