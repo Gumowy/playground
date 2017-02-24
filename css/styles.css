@@ -443,6 +443,10 @@ span.hamburger_line{
 
 }
 
+span.green{
+  color: #7cc576;
+}
+
 #home{
 
   background: url(../images/bg_title.jpg);
